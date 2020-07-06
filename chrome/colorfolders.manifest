@@ -1,0 +1,6 @@
+content  colorfolders  colorfolders/content/colorfolders/
+skin  colorfolders classic/1.0 colorfolders/skin/colorfolders/
+skin  colorfolders classic/1.0 colorfolders/skin/aero/colorfolders/ os=WINNT osversion>=6
+
+overlay chrome://messenger/content/messenger.xul chrome://colorfolders/content/colorfolders.xul
+style chrome://messenger/content/messenger.xul chrome://colorfolders/content/colorfolders.css
